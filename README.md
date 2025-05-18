@@ -21,9 +21,10 @@
 ## Всьановлення .env залежностей
 
 HUGGING_FACE_API_KEY= 
+
 HUGGING_FACE_TEXT_MODEL_URL=
+
 HUGGING_FACE_TEXT_MODEL_URL=
-HUGGING_FACE_IMAGE_MODEL_URL=
 
 ## 🚀 Запуск проєкту
 
